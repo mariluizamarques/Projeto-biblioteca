@@ -1,8 +1,7 @@
 # Biblioteca
 
 ## Objetivos
-O sistema vai escolher uma cor aleatória e gerar uma combinação de cores baseado na escolha de uma 
-outra cor que o usuário vai escolher, usando o circulo cromático.
+
 
 ### Stack Tecnlógico
 - Backend: PHP estruturado com sessões nativas
